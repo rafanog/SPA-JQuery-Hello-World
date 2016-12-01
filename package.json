@@ -1,0 +1,25 @@
+{
+  "name": "spa-jquery-hello-world",
+  "version": "1.0.0",
+  "description": "Basic usage of JQuery on a Hello World example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafanog/SPA-JQuery-Hello-World.git"
+  },
+  "keywords": [
+    "SPA",
+    "Hello",
+    "World",
+    "JQuery"
+  ],
+  "author": "Rafael Noguera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafanog/SPA-JQuery-Hello-World/issues"
+  },
+  "homepage": "https://github.com/rafanog/SPA-JQuery-Hello-World#readme"
+}
